@@ -5,8 +5,11 @@
   
   https://opensource.org/licenses/MIT
 
+  ## Video
+  https://drive.google.com/file/d/1Vbe5bwdcIPt8FX8POTVsyRBngh8VvZH1/view
+
   ## Description
-  This application will ehlp you generate a professional Readme via promps through the terminal
+  This application will help you generate a professional Readme via prompts through the terminal.
 
   ## Table of Content
   * [Installation](#Installation)
@@ -22,7 +25,7 @@
   To use please input: node index.js
 
   ## Contribution
-  Please contact me bellow if you want to contribute to this project.
+  Please contact me below if you want to contribute to this project.
 
   ## Test
   To test please input: npm test
