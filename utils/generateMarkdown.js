@@ -40,6 +40,7 @@ function generateMarkdown(data) {
 
   ## License
   ${renderLicenseBadge(data.license)}
+  
   ${renderLicenseLink(data.license)}
 
   ## Description
@@ -65,8 +66,8 @@ function generateMarkdown(data) {
   ${data.test}
 
   ## Questions
-  https://github.com/${data.github}
-  ${data.email}
+  * https://github.com/${data.github}
+  * ${data.email}
 
 `;
 }

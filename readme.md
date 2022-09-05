@@ -2,10 +2,11 @@
 
   ## License
   ![License](https://img.shields.io/badge/License-MIT-green)
+  
   https://opensource.org/licenses/MIT
 
   ## Description
-  This application helps the user create a professional Readme based on user input.
+  This application will ehlp you generate a professional Readme via promps through the terminal
 
   ## Table of Content
   * [Installation](#Installation)
@@ -15,18 +16,18 @@
   * [Questions](#Questions)
 
   ## Installation
-  Input the following command in your terminal to install: npm i
+  To install please input: npm i
 
   ## Usage
-  Input the follwoing command in your terminal to run application: node index.js
+  To use please input: node index.js
 
   ## Contribution
-  Contact me through the platforms below for contributions
+  Please contact me bellow if you want to contribute to this project.
 
   ## Test
-  Input the following command in your terminal to test application: npm test
+  To test please input: npm test
 
   ## Questions
-  https://github.com/crestatic
-  dtnguy86@gmail.com
+  * https://github.com/Crestatic
+  * dtnguy86@gmail.com
 
